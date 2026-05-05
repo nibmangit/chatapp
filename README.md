@@ -20,7 +20,7 @@ This is a **Client-Server Multi-user Chat Application** built using:
 ---
 
 ## 📁 Project Structure
-**if it is on netBeans clreate FX project in the sorce package create a new package chatapp and inside it create client, server, ui, database and util and then pase the file in each folder as shown below or if you want you can run in what ever structure by modifing the import inside each file according to your structure**
+if it is on netBeans create FX project in the sorce package create a new package called chatapp and inside it create client, server, ui, database and util packages and then paste the file in each folder as shown below or if you want you can run in what ever structure you want by modifing the import inside each file according to your structure
 
 ```
 chatapp/
@@ -269,6 +269,7 @@ USERLIST:user1,user2,user3
 ```
 received_filename.ext
 ```
+inside your project folder location you can check it after sending.
 
 ---
 
@@ -307,11 +308,11 @@ public static final int PORT = 5000;
 
 ## 👨‍💻 Contributors
 
-*NIBRETU MENGAW
-*YONAS ABATE
-*ABEBE WORKINEH 
-*HUSSNIA MOHAMMED
-*HILINA YINAGER
+* NIBRETU MENGAW
+* YONAS ABATE
+* ABEBE WORKINEH 
+* HUSSNIA MOHAMMED
+* HILINA YINAGER
 
 ---
 
